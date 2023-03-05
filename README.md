@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Priyanka Palshetkar](https://priyankapalshetkar.wixsite.com/portfolio), an Entrepreneur, Product Manager, Data Analyst and a Devigner! I love building products that solve important problems. That's what drove me into co-founding two start-ups - Inphinity Products and Almameal.
+Hi, I'm [Priyanka Palshetkar](https://priyankapalshetkar.wixsite.com/portfolio), an Entrepreneur, Product Manager, Data Analyst and a Devigner (Developer-Designer)! I love building products that solve important problems. That's what drove me into co-founding two start-ups - Inphinity Products and Almameal.
 
 I love reading science-fiction, learning new things and writing about them. Teaching is something that is very close to my heart.
 
