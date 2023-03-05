@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/priyanka-palshetkar/">
   <img align="left" alt="Priyanka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://priyankapalshetkar.wixsite.com/portfolio/talks">
+  <img align="left" alt="Priyanka's Tech Talks" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Priyanka-Gangadhar-Palshetkar.Priyanka-Gangadhar-Palshetkar)
 
