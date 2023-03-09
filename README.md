@@ -9,7 +9,7 @@
   <img align="left" alt="Priyanka's Tech Talks" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Priyanka-Gangadhar-Palshetkar.Priyanka-Gangadhar-Palshetkar)
+![](https://visitor-badge.glitch.me/badge?page_id=iPrinka.iPrinka)
 
 <br />
 
@@ -33,7 +33,7 @@ I love reading science-fiction, learning new things and writing about them. Teac
 
 📈 **My Github Stats**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanka-Gangadhar-Palshetkar&show_icons=true&theme=gotham" alt="Priyanka-Gangadhar-Palshetkar" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iPrinka&show_icons=true&theme=gotham" alt="iPrinka" />
 
 
 
