@@ -31,6 +31,9 @@ I love reading science-fiction, learning new things and writing about them. Teac
 <a href="https://priyankapalshetkar.wixsite.com/portfolio/talks">
   <img align="left" alt="Priyanka's Tech Talks" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+<a href="https://priyankapalshetkar.wixsite.com/portfolio/blog-priyanka-palshetkar">
+  <img align="left" alt="Priyanka's Tech Talks" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iPrinka.iPrinka)
 
