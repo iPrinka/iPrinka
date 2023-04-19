@@ -8,6 +8,8 @@ At Almameal, we built an aggregator platform empowering homemakers to start self
 
 I love reading science-fiction, learning new things and writing about them. Teaching is something that is very close to my heart.
 
+[Let's talk!](https://calendly.com/priyanka_palshetkar)
+
 <br/>
 
 **Languages and Tools:**  
@@ -38,7 +40,6 @@ I love reading science-fiction, learning new things and writing about them. Teac
 ![](https://visitor-badge.glitch.me/badge?page_id=iPrinka.iPrinka)
 
 <br />
-
 
 <!-- 📈 **My Github Stats**
 
