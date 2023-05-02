@@ -37,13 +37,14 @@ I love reading science-fiction, learning new things and writing about them. Teac
   <img align="left" alt="Priyanka's Tech Talks" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wordpress.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=iPrinka.iPrinka)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=iPrinka.iPrinka) -->
 
 <br />
 
-<!-- 📈 **My Github Stats**
+<!-- 
+📈 **My Github Stats**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iPrinka&show_icons=true&theme=gotham" alt="iPrinka" /> -->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iPrinka&show_icons=true&theme=gotham" alt="iPrinka" />  -->
 
 
 
