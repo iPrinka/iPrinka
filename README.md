@@ -8,6 +8,7 @@ At Almameal, we built an aggregator platform empowering homemakers to start self
 
 I love reading science-fiction, learning new things and writing about them. Teaching is something that is very close to my heart.
 
+<!--
 <br/>
 
 **Languages and Tools:**  
@@ -20,7 +21,6 @@ I love reading science-fiction, learning new things and writing about them. Teac
 
 <br />
 
-<!--
 **Beyond GitHub:**
 
 <a href="https://www.instagram.com/artbyprinka/">
